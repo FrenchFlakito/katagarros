@@ -1,4 +1,4 @@
-require 'garros'
+require './garros'
 
 describe "Garros" do
 
